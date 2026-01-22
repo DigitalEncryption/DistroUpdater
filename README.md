@@ -8,3 +8,4 @@ Usage
 python3 DistroUpdater.py --distro
 #Distros --debian --arch --fedora
 ```
+![updater](example.gif)
