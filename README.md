@@ -5,7 +5,6 @@ A simple python script to update your Debian, Arch, or Fedora based distro in on
 
 Usage 
 ```sh
-python3 DistroUpdater.py --distro
-#Distros --debian --arch --fedora
+python3 DistroUpdater.py 
 ```
 ![updater](example.gif)
