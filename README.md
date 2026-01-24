@@ -1,6 +1,6 @@
 **DistroUpdater**
 
-A simple python script to update your Debian, Arch, or Fedora based distro in one simple line.
+A simple python script to update most Linux distros in one simple line.
 
 
 Usage 
