@@ -10,6 +10,6 @@ curl -LO https://raw.githubusercontent.com/DigitalEncryption/DistroUpdater/refs/
 
 Usage 
 ```sh
-python3 DistroUpdater.py 
+distroupdater
 ```
 ![updater](example.gif)
