@@ -17,6 +17,6 @@ makepkg -si
 ```sh
 distroupdater
 ### or
-distroupdater install pkgname
+distroupdater install
 ```
 ![updater](example.gif)
