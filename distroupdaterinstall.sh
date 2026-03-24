@@ -1,6 +1,6 @@
 #!/bin/bash 
 
-pkgver=7.0
+pkgver=8.0
 
 cd /tmp
 
@@ -8,18 +8,18 @@ clear
 
 echo "Downloading from source"
 
-curl -LO https://github.com/digitalencryption/DistroUpdater/releases/download/$pkgver/DistroUpdaterV7.zip
+curl -LO https://github.com/digitalencryption/DistroUpdater/releases/download/$pkgver/DistroUpdaterV8.zip
 
 clear
 
 echo "Unzipping the file"
 
-unzip DistroUpdaterV7.zip
+unzip DistroUpdaterV8.zip
 
 clear
 
 echo "Installing DistroUpdater"
 
-sudo install -Dm755 /tmp/DistroUpdaterV7.py /usr/bin/distroupdater
+sudo install -Dm755 /tmp/DistroUpdaterV8.py /usr/bin/distroupdater
 
 echo "DistroUpdater installed, Run distroupdater in your terminal to start updating!"
